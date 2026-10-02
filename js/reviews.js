@@ -1,9 +1,9 @@
 const REVIEWS_KEY = "informatica_resolutiva_reviews_v1";
 
 const seedReviews = [
-  {id:"seed-1",name:"Martín G.",service:"Cámaras de seguridad",rating:5,text:"Excelente trabajo en la instalación de las cámaras de seguridad para nuestro local. Monitoreamos todo desde el celular con total nitidez y rapidez.",date:"2026-08-18T12:00:00"},
-  {id:"seed-2",name:"Agustín R.",service:"Redes y Wi-Fi",rating:5,text:"Necesitábamos optimizar la red y el Wi-Fi de la oficina. Nos dieron una solución impecable y estable. Muy conformes con el resultado.",date:"2026-08-20T15:30:00"},
-  {id:"seed-3",name:"Lucas C.",service:"Armado de computadoras",rating:5,text:"Excelente asesoramiento para el armado de nuestra computadora de trabajo. Balance perfecto de componentes, rápida y sin gastar de más.",date:"2026-08-22T10:15:00"}
+  {id:"seed-1",name:"María G.",service:"Mantenimiento / reparación de PC",rating:5,text:"Me solucionaron un problema de la computadora que venía arrastrando hace semanas. Muy buena atención y me explicaron todo antes de hacer el trabajo.",date:"2026-08-18T12:00:00"},
+  {id:"seed-2",name:"Agustín R.",service:"Redes informáticas",rating:5,text:"Necesitábamos mejorar la conexión de la oficina y nos dieron una solución acorde a lo que realmente necesitábamos. Muy conformes con el resultado.",date:"2026-08-20T15:30:00"},
+  {id:"seed-3",name:"Lucas C.",service:"Compra de hardware",rating:5,text:"Excelente asesoramiento para actualizar las PCs. Pudimos mejorar el rendimiento sin gastar de más.",date:"2026-08-22T10:15:00"}
 ];
 
 function getReviews(){
